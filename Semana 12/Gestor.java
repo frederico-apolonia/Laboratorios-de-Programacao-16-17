@@ -1,10 +1,5 @@
 import java.util.HashMap;
 import java.util.Map.Entry;
-/**
- * 
- * @author Frederico Apolonia - 47892
- * @date 19/05/17 - 13h23
- */
 public class Gestor {
 
 	private int categorias;
