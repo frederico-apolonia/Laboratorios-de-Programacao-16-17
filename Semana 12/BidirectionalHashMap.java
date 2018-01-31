@@ -1,11 +1,5 @@
 import java.util.HashMap;
 
-/**
- * Tabela bidirecional
- * @author Frederico Apolonia - 47892
- *
- */
-
 public class BidirectionalHashMap<K, V> {
 
 	private HashMap<K, V> keyValue;
