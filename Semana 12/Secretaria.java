@@ -1,8 +1,3 @@
-/**
- * 
- * @author Frederico Apolonia - 47892
- * @date 19/05/17 - 13h17
- */
 public class Secretaria {
 	
 	//numero da secretaria
